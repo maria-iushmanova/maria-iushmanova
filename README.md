@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![actively programming cat](https://giphy.com/embed/JIX9t2j0ZTN9S)
+
 <!--
 **mariia-yushmanova/mariia-yushmanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
