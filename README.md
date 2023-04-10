@@ -1,12 +1,13 @@
-### Hi there 👋
+<h2 align="center"> Hello there 👋 </h2>
+<h3 align="center"> My name is Maria and I'm a Frontend Developer </h3>
+<img align="rigth" alt="actively programming cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
-![actively programming cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<p align="left">Now I work in a cool team</p>
+<p align="left">I’m currently learning Next.js, TS, zustand
+<p align="left">
+✨ You can contact me in telegram @mariia_yushmanova</p>
 
 <!--
-**mariia-yushmanova/mariia-yushmanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
