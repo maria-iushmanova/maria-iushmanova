@@ -3,7 +3,8 @@
 <img align="right" width="400" alt="actively programming cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 
-<h4 align="left">🌸 Now I work in a cool team like this cat -> </h5>
+<h4 align="left">🌸 Now I work a lot on gitlab and in a cool team. 
+I'm almost like this cat -> </h5>
 
 <h4 align="left">
 ✨ You can contact me in telegram @mariia_yushmanova</h5>
