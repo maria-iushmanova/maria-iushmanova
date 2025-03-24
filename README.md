@@ -7,7 +7,7 @@
 <h4 align="left">😼 I'm almost like this cat -> </h4>
 
 <h4 align="left">
-✨ You can contact me in telegram @mariia_yushmanova</h4>
+✨ You can contact me in telegram @maria_iushmanova</h4>
 
 <h4 align="left">🔥 I’m currently learning Zustand, zod </h4>
   
