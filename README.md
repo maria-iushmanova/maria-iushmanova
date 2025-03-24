@@ -8,8 +8,6 @@
 
 <h4 align="left">
 ✨ You can contact me in telegram @maria_iushmanova</h4>
-
-<h4 align="left">🔥 I’m currently learning Zustand, zod </h4>
   
 <h4 align="left">⚔️ Languages and tools:</h4>
 
